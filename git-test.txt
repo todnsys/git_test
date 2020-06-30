@@ -5,7 +5,9 @@ git add 파일명
 git commit -m "first commit"
 git remote add origin repository 주소 (프로젝트 처음 푸쉬할 경우)
 git push -u origin master (프로젝트 처음 푸쉬할 경우)
-git push origin master
+git push origin (master => 내 브랜치 명)
+
+master브랜치는 repository의 최고 root 브런치.
 
 git branch (확인)
 git checkout -b (bracn 이름)
