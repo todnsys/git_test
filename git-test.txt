@@ -13,3 +13,7 @@ git branch (확인)
 git checkout -b (bracn 이름)
 
 git status (=>상태 확인을 해야함)
+
+git config -global user.email ( => 내 이메일)
+git config -global user.name (=> 내 이름 )
+
